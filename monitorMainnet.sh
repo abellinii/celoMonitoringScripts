@@ -30,12 +30,10 @@ celocli config:set -n http://localhost:8545
 line1=` celocli validator:status --validator $CELO_VALIDATOR_RG_ADDRESS --lookback $mu1 | tail -1` 
 line2=` celocli validator:status --validator $CELO_VALIDATOR_RG_ADDRESS --lookback $mu2 | tail -1` 
 elected=`awk '{print $(NF - 3)}' <<< $line2`
-echo "line2"
-echo $line2
+
 shortrate=`awk '{print $(NF)}' <<< $line1 | cut -d "%" -f1`
 medrate=`awk '{print $(NF)}' <<< $line2 | cut -d "%" -f1`
-echo "medrate"
-echo $medrate
+
 
 
 

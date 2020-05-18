@@ -1,0 +1,11 @@
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:18:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+ATTESTATION SERVICE: Attestation failed with an unexpected error at Sun May 17 2020 08:20:09 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:22:07 PM PDT

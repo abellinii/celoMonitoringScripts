@@ -17,15 +17,12 @@ day="$(($day % 7))"
 
 
 #Check validator
-#monitorMainnet.sh
+monitorMainnet.sh
 
-echo $day 
-echo $hour
-echo $attestMinute
-echo $minute
+
 
 #Check attestation every 5 minutes
-[[ $attestMinute = "0" || $attestMitute = "5" ]] && monitorAttestationService.sh
+[[ $attestMinute = "0" || $attestMinute = "5" ]] && monitorAttestationService.sh
 
 
 #Delete logs for the week

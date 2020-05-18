@@ -1,5 +1,5 @@
 #!/bin/bash
-
+source ~/.bash_profile
 PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/monitoringTools
 
 # usage: twilio.sh 'Hi there, your new phone number is working.'
