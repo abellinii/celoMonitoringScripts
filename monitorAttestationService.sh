@@ -1,7 +1,7 @@
 #!/bin/bash
 #Scipt for monitoring an attestation service on the Celo network. Documentation can be found here: https://docs.celo.org/getting-started/baklava-testnet/running-a-validator-in-baklava#running-the-attestation-service-1
 #Breakdown of script
-#   - load local env variables form ~/.profile 
+#   - load local env variables form ~/.bash_profile 
 #       - CELO_ATTESTATION_IP
 #       - CELO_ATTESTATION_ERRORS
 #       - CELO_UNEXPECTED_ERRORS 
