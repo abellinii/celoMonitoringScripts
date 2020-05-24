@@ -1,5 +1,12 @@
 #!/bin/bash
 
+#Main entry point to be called from a cronjob 
+#   - set cronjob by $ crobtab -e and adding " *  *  *  *  *   /home/ubuntu/monitoringTools/monitor.sh  >> /home/ubuntu/monitoringTools/mainnetjob.log 2>&1 "
+#   - script execution
+#       - run monitorMainet.sh to check validator signing health
+#       - every 5 minutes run monitorAttestationService.sh to check the attestation service
+#       - delete logs every 7 days 
+
 #Set path 
 PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/monitoringTools
 

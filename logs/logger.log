@@ -1,11 +1,861 @@
-attestation_requests_unexpected_errors 0
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:16:07 PM PDT
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:17:07 PM PDT
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:18:07 PM PDT
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:19:07 PM PDT
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:20:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:21:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:22:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:23:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:24:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:25:07 AM PDT
+ATTESTATION SERVICE: Attestation failed error at Sat May 23 2020 10:25:08 AM PDT
+ATTESTATION SERVICE: Attestation failed with an unexpected error at Sat May 23 2020 10:25:08 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:26:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:27:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:28:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:29:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:30:08 AM PDT
 attestation_requests_attestation_errors 0
 attestation_requests_unexpected_errors 0
-ATTESTATION SERVICE: Attestation failed with an unexpected error at Sun May 17 2020 08:20:09 PM PDT
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:21:07 PM PDT
-MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sun May 17 2020 08:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:31:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:32:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:33:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:34:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:35:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:36:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:37:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:38:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:39:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:40:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:41:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:42:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:43:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:44:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:45:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:46:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:47:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:48:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:49:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:50:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:51:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:52:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:53:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:54:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:55:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:56:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:57:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:58:08 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 10:59:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:00:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:01:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:02:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:03:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:04:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:05:06 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:06:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:07:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:08:08 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:09:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:10:08 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:11:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:12:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:13:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:14:08 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:15:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:16:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:17:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:18:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:19:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:20:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:21:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:22:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:23:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:24:08 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:25:06 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:26:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:27:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:28:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:29:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:30:08 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:31:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:32:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:33:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:34:08 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:35:06 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:36:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:37:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:38:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:39:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:40:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:41:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:42:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:43:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:44:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:45:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:46:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:47:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:48:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:49:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:50:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:51:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:52:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:53:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:54:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:55:07 AM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:56:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:57:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:58:07 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 11:59:06 AM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:00:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:01:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:06:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:07:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:09:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:10:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:11:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:12:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:13:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:15:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:17:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:18:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:21:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:23:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:24:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:25:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:26:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:29:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:30:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:34:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:35:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:36:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:38:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:39:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:40:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:43:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:44:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:46:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:47:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:48:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:49:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:50:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:51:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:52:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:53:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:57:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:58:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 12:59:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:00:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:01:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:03:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:06:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:07:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:09:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:10:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:12:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:13:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:15:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:18:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:21:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:23:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:24:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:25:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:26:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:30:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:31:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:34:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:35:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:36:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:38:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:39:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:40:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:43:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:44:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:46:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:47:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:48:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:49:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:50:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:51:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:52:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:53:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:57:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:58:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 01:59:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:00:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:01:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:06:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:07:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:08:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:09:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:10:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:12:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:13:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:14:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:15:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:17:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:18:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:22:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:23:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:24:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:25:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:26:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:27:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:30:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:33:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:34:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:35:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:36:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:38:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:39:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:40:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:42:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:43:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:44:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:46:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:47:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:48:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:49:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:50:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:51:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:52:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:53:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:57:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:58:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 02:59:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:00:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:01:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:03:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:06:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:07:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:09:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:10:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:12:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:13:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:15:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:18:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:23:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:24:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:25:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:26:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:28:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:30:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:32:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:34:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:35:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:36:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:38:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:39:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:40:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:41:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:43:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:44:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:45:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:46:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:47:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:48:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:49:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:50:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:51:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:52:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:53:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:57:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:58:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 03:59:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:00:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:01:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:04:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:06:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:07:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:09:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:10:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:12:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:13:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:14:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:15:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:18:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:21:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:22:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:23:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:24:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:25:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:26:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:30:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:34:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:35:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:36:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:38:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:39:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:40:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:43:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:44:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:46:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:47:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:48:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:49:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:50:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:51:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:52:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:53:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:55:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:57:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:58:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 04:59:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:00:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:01:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:06:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:07:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:09:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:10:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:12:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:13:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:15:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:18:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:19:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:23:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:24:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:25:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:26:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:30:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:34:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:35:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:36:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:38:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:39:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:40:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:43:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:44:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:46:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:47:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:48:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:49:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:50:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:51:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:52:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:53:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:57:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:58:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 05:59:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:00:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:01:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:02:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:06:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:07:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:09:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:10:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:12:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:13:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:15:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:18:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:20:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:22:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:23:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:24:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:25:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:26:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:27:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:30:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:34:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:35:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:36:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:38:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:39:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:40:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:43:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:44:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:46:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:47:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:48:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:49:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:50:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:51:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:52:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:53:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:57:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:58:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 06:59:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:00:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:01:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:02:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:05:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:06:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:07:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:08:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:09:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:10:06 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:11:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:12:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:13:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:15:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:16:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:18:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:23:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:24:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:25:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:26:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:29:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:30:08 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:32:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:33:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:34:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:35:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:36:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:37:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:38:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:39:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:40:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:41:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:42:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:43:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:44:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:45:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:46:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:47:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:48:06 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:49:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:50:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:51:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:52:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:53:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:54:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:55:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:56:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:57:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:58:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 07:59:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:00:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:01:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:02:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:03:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:04:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:05:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:06:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:07:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:08:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:09:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:10:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:11:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:12:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:13:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:14:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:15:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:16:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:17:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:18:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:19:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:20:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:21:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:22:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:23:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:24:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:25:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:26:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:27:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:28:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:29:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:30:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:31:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:32:08 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:33:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:34:07 PM PDT
+MAINNET V1 200-block rate: 100, 50-block rate: 100, delta: 0 at Sat May 23 2020 08:35:07 PM PDT
+attestation_requests_attestation_errors 0
+attestation_requests_unexpected_errors 0
