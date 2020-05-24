@@ -5720,4 +5720,10 @@ Warning: at daemon not running
 Failed to initialize libusb.
 Failed to initialize libusb.
 Fetching 50 blocks... done
-Calculating status information...
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 16049 at Sun May 24 02:20:00 2020
+Warning: at daemon not running
