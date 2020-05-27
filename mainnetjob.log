@@ -47041,3 +47041,51 @@ Calculating status information... done
 warning: commands will be executed using /bin/sh
 job 20334 at Wed May 27 01:45:00 2020
 Warning: at daemon not running
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 20335 at Wed May 27 01:46:00 2020
+Warning: at daemon not running
+errors
+0
+0
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 20336 at Wed May 27 01:47:00 2020
+Warning: at daemon not running
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 20337 at Wed May 27 01:48:00 2020
+Warning: at daemon not running
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 20338 at Wed May 27 01:49:00 2020
+Warning: at daemon not running
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 20339 at Wed May 27 01:50:00 2020
+Warning: at daemon not running
