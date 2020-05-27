@@ -1,0 +1,10 @@
+awsCurrent/examples/mainnet/secret.auto.tfvars
+awsCurrent/examples/testnet/secret.auto.tfvars
+awsCurrent/examples/testnet/.terraform/**
+awsCurrent/examples/testnet/terraform.tfstate	
+awsCurrent/examples/testnet/terraform.tfstate.backup 
+awsReadyToRotate/examples/testnet/secret.auto.tfvars
+awsReadyToRotate/examples/mainnet/secret.auto.tfvars
+awsReadyToRotate/examples/testnet/.terraform/**
+awsReadyToRotate/examples/testnet/terraform.tfstate
+awsReadyToRotate/examples/testnet/terraform.tfstate.backup
