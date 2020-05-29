@@ -7,6 +7,11 @@
 #       - every 5 minutes run monitorAttestationService.sh to check the attestation service
 #       - delete logs every 7 days 
 
+
+#Get env vars
+source ~/.bash_profile
+
+
 #Set path 
 PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/monitoringTools
 
