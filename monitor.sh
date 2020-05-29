@@ -13,7 +13,7 @@ source ~/.bash_profile
 
 
 #Set path 
-PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/monitoringTools
+PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/celoMonitoringScripts
 
 #Attestation switch to turn  off logging if there is no attestation service
 attestationSwitch=$ATTESTATION_SERVICE_SWITCH
