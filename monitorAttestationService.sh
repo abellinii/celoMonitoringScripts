@@ -22,7 +22,7 @@
 source ~/.bash_profile
 
 # Set path
-PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/monitoringTools
+PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/celoMonitoringScripts
 
 
 # Set IP of Attestation service

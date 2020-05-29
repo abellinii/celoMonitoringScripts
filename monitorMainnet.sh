@@ -12,7 +12,7 @@
 source ~/.bash_profile
 
 #Set path
-PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/monitoringTools:/Users/wadeabel/celo-accounts-node:~/celo-accounts-node:/Users/wadeabel/.nvm/versions/node/v10.17.0/bin/celocli:/Users/wadeabel/.nvm/versions/node/v10.17.0/bin/:/Users/wadeabel/.nvm/versions/node/v10.17.0/bin/npx
+PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/home/ubuntu/celoMonitoringScripts:/Users/wadeabel/celo-accounts-node:~/celo-accounts-node:/Users/wadeabel/.nvm/versions/node/v10.17.0/bin/celocli:/Users/wadeabel/.nvm/versions/node/v10.17.0/bin/:/Users/wadeabel/.nvm/versions/node/v10.17.0/bin/npx
 
 
 
