@@ -25,7 +25,9 @@ Set environment variables so the scripts can read information securely.
         - TWILIO_NUMBER 
     - Validator
         - CELO_VALIDATOR_RG_ADDRESS
-
+    - Attestation
+        - ATTESTATION_SERVICE_SWITCH
+        
 ### Install Celo cli
 
 [Install the Celo cli](https://docs.celo.org/command-line-interface/introduction#prerequisites)
@@ -38,6 +40,9 @@ On the machine you have your env variables and the celo cli installed
     - Set cronjob to run every minute by $ crontab -e and " *  *  *  *  *   /home/ubuntu/monitoringTools/monitor.sh  >> /home/ubuntu/monitoringTools/mainnetjob.log 2>&1 "
         - this will also provide a log to help with debugging
 
+### Settings
+
+Set the Attestation service logging to on by setting ATTESTATION_SERVICE_SWITCH=1 and ATTESTATION_SERVICE_SWITCH=0 to turn it off
 
 # Includes
 
