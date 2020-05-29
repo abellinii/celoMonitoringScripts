@@ -46,3 +46,21 @@ Calculating status information... done
 warning: commands will be executed using /bin/sh
 job 23261 at Fri May 29 02:32:00 2020
 Warning: at daemon not running
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 23262 at Fri May 29 02:33:00 2020
+Warning: at daemon not running
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 23263 at Fri May 29 02:34:00 2020
+Warning: at daemon not running
