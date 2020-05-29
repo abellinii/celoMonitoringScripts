@@ -43,10 +43,6 @@ attestationErrors="$( curl -s -N $IP/metrics | grep attestation_requests_attesta
 [[ $attestationErrors != $CELO_ATTESTATION_ERRORS ]] && echo "$msg" >> ~/monitoringTools/logs/logger.log &&  twilio.sh "$msg"
 
 
-echo "errors"
-echo $attestationErrors
-echo $CELO_ATTESTATION_ERRORS
-
 
 
 # HELP attestation_requests_attestation_errors Counter for the number of requests for which producing the attestation failed
