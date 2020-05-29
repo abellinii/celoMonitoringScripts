@@ -37,7 +37,7 @@ Set environment variables so the scripts can read information securely.
 On the machine you have your env variables and the celo cli installed
     - mkdir monitoringTools && cd monitoringTools
     - wget https://github.com/abellinii/celoMonitoringScripts.git
-    - Set cronjob to run every minute by $ crontab -e and " *  *  *  *  *   /home/ubuntu/monitoringTools/monitor.sh  >> /home/ubuntu/monitoringTools/mainnetjob.log 2>&1 "
+    - Set cronjob to run every minute by $ crontab -e and " *  *  *  *  *   /home/ubuntu/celoMonitoringScripts/monitor.sh  >> /home/ubuntu/celoMonitoringScripts/mainnetjob.log 2>&1 "
         - this will also provide a log to help with debugging
 
 ### Settings
