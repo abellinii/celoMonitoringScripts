@@ -193,3 +193,62 @@ Calculating status information... done
 warning: commands will be executed using /bin/sh
 job 15767 at Fri May 29 04:02:00 2020
 Warning: at daemon not running
+docker: invalid reference format.
+See 'docker run --help'.
+docker: invalid reference format.
+See 'docker run --help'.
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 15768 at Fri May 29 04:03:00 2020
+Warning: at daemon not running
+docker: invalid reference format.
+See 'docker run --help'.
+docker: invalid reference format.
+See 'docker run --help'.
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 15769 at Fri May 29 04:04:00 2020
+Warning: at daemon not running
+docker: invalid reference format.
+See 'docker run --help'.
+docker: invalid reference format.
+See 'docker run --help'.
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 15770 at Fri May 29 04:05:00 2020
+Warning: at daemon not running
+docker: invalid reference format.
+See 'docker run --help'.
+docker: invalid reference format.
+See 'docker run --help'.
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
+Failed to initialize libusb.
+Fetching 200 blocks... done
+Calculating status information... done
+warning: commands will be executed using /bin/sh
+job 15771 at Fri May 29 04:06:00 2020
+Warning: at daemon not running
+docker: invalid reference format.
+See 'docker run --help'.
+docker: invalid reference format.
+See 'docker run --help'.
+Failed to initialize libusb.
+Fetching 50 blocks... done
+Calculating status information... done
